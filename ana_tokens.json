@@ -1,0 +1,20 @@
+{
+  "global/foundations": {},
+  "global/primitives": {
+    "cordel": {
+      "dimension": {
+        "base": {
+          "value": "1rem",
+          "type": "dimension"
+        }
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global/foundations",
+      "global/primitives"
+    ]
+  }
+}
