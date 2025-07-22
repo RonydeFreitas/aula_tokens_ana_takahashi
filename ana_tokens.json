@@ -4,8 +4,8 @@
     "cordel": {
       "dimension": {
         "base": {
-          "value": "1rem",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "1rem"
         }
       }
     }
