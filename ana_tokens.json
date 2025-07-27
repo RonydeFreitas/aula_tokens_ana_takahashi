@@ -1,10 +1,93 @@
 {
-  "global/foundations": {},
-  "global/primitives": {
+  "G_BASE/Primitives": {
     "cordel": {
       "dimension": {
+        "0": {
+          "value": "0px",
+          "type": "dimension"
+        },
+        "1": {
+          "value": "0.25 * {cordel.dimension.base}",
+          "type": "dimension"
+        },
+        "2": {
+          "value": "0.5 * {cordel.dimension.base}",
+          "type": "dimension"
+        },
+        "3": {
+          "value": "0.75 * {cordel.dimension.base}",
+          "type": "dimension"
+        },
+        "4": {
+          "value": "1.00 * {cordel.dimension.base}",
+          "type": "dimension"
+        },
+        "5": {
+          "value": "1.25 * {cordel.dimension.base}",
+          "type": "dimension"
+        },
+        "6": {
+          "value": "1.5 * {cordel.dimension.base}",
+          "type": "dimension"
+        },
+        "7": {
+          "value": "1.75 * {cordel.dimension.base}",
+          "type": "dimension"
+        },
+        "8": {
+          "value": "2.00 * {cordel.dimension.base}",
+          "type": "dimension"
+        },
+        "9": {
+          "value": "2.25 * {cordel.dimension.base}",
+          "type": "dimension"
+        },
+        "10": {
+          "value": "2.5 * {cordel.dimension.base}",
+          "type": "dimension"
+        },
+        "11": {
+          "value": "2.75 * {cordel.dimension.base}",
+          "type": "dimension"
+        },
+        "12": {
+          "value": "3.00 * {cordel.dimension.base}",
+          "type": "dimension"
+        },
+        "13": {
+          "value": "3.25 * {cordel.dimension.base}",
+          "type": "dimension"
+        },
+        "14": {
+          "value": "3.5 * {cordel.dimension.base}",
+          "type": "dimension"
+        },
+        "15": {
+          "value": "3.75 * {cordel.dimension.base}",
+          "type": "dimension"
+        },
+        "16": {
+          "value": "4.00 * {cordel.dimension.base}",
+          "type": "dimension"
+        },
+        "17": {
+          "value": "4.25 * {cordel.dimension.base}",
+          "type": "dimension"
+        },
+        "18": {
+          "value": "4.5 * {cordel.dimension.base}",
+          "type": "dimension"
+        },
+        "19": {
+          "value": "4.75 * {cordel.dimension.base}",
+          "type": "dimension"
+        },
+        "20": {
+          "value": "5.00 * {cordel.dimension.base}",
+          "type": "dimension"
+        },
         "base": {
-          "value": "1rem",
+          "value": "16px",
           "type": "dimension"
         }
       }
@@ -13,8 +96,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global/foundations",
-      "global/primitives"
+      "G_BASE/Primitives"
     ]
   }
 }
