@@ -90,6 +90,48 @@
           "$type": "dimension",
           "$value": "16px"
         }
+      },
+      "font-size": {
+        "1": {
+          "$type": "fontSizes",
+          "$value": 10.24
+        },
+        "2": {
+          "$type": "fontSizes",
+          "$value": 12.8
+        },
+        "3": {
+          "$type": "fontSizes",
+          "$value": 16
+        },
+        "4": {
+          "$type": "fontSizes",
+          "$value": 20
+        },
+        "5": {
+          "$type": "fontSizes",
+          "$value": 25
+        },
+        "6": {
+          "$type": "fontSizes",
+          "$value": 31.25
+        },
+        "7": {
+          "$type": "fontSizes",
+          "$value": 39.06
+        },
+        "8": {
+          "$type": "fontSizes",
+          "$value": 48.83
+        },
+        "9": {
+          "$type": "fontSizes",
+          "$value": 61.04
+        },
+        "10": {
+          "$type": "fontSizes",
+          "$value": 76.29
+        }
       }
     }
   },
